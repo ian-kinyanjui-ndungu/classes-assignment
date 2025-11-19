@@ -27,6 +27,8 @@ class Book:
 
 
 B1 = Book("what i will do", "iano", "1999", True)
+B2 = Book("faith", "nyanjui", "2000", True)
+B3 = Book("destiny", "Alvin", "1450", True)
 
 print(f"the book details are as follows: {B1.details()}")
 
